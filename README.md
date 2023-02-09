@@ -1,4 +1,8 @@
-# MagFace
+# MagFace-Kinship
+
+Using Magface to study kinship between people using their faces
+
+-----------------------------------------------------------------
 MagFace: A Universal Representation for Face Recognition and Quality Assessment  
 in *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021, **Oral** presentation.
 
